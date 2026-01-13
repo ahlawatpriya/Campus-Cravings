@@ -1,6 +1,6 @@
-# 🍽️ Flavor Fusion
+# 🍽️ Campus Craving
 
-**Flavor Fusion** is a front-end food ordering and restaurant web application designed to deliver an engaging and interactive user experience. The project showcases a complete user flow — from authentication to browsing menus, managing a cart, and simulating payments — built using core web technologies.
+**Campus Craving** is a front-end food ordering and restaurant web application designed to deliver an engaging and interactive user experience. The project showcases a complete user flow — from authentication to browsing menus, managing a cart, and simulating payments — built using core web technologies.
 
 This project highlights strong fundamentals in **HTML, CSS, and JavaScript**, with a focus on UI/UX design, client-side logic, and real-world application flow.
 
@@ -67,7 +67,7 @@ This project highlights strong fundamentals in **HTML, CSS, and JavaScript**, wi
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/flavor-fusion.git
+   git clone https://github.com/your-username/
    ```
 2. Open `login.html` in any modern web browser
 3. No additional setup required (pure frontend project)
